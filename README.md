@@ -1,7 +1,4 @@
-### Hi there 👋
-
-Here are some ideas to get you started:
-
 - 🔭 Actualmente estoy formandome.
+- 📜 Técnico en Sistemas Microinformáticos y Redes. 
 - 🌱 Estoy aprendiendo desarrollo de aplicaciones web.
 - 📫 Correo: dbds.101203@gmail.com
