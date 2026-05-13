@@ -25,7 +25,9 @@ me.saludar()
 
 Desarrollador junior creativo, con una mentalidad perfeccionista que me impulsa a aprender y mejorar constantemente.
 
-Estoy profundizando en React, Node.js y Python, mientras curso un máster en inteligencia artificial.
+Estoy profundizando en React, Node.js y Python.
+
+He hecho un master en inteligencia artificial para poder reforzar mis habilidades como desarrollador.
 
 
 ## 💻 Stack y Herramientas
